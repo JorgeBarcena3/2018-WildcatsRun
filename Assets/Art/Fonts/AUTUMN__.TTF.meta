@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6282ac41941a0f74295d0d0ffdaa5831
+timeCreated: 1521400228
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Autumn
+  fontNames:
+  - Autumn
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
